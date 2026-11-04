@@ -1,0 +1,382 @@
+name,family,n_rulers,span,n_long,long_space,depth_txt,mm_px,method,ocr_snip
+IMG_00001.tif,0,2,609.0,12,67.8,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00002.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00003.tif,0,2,609.0,12,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00004.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00005.tif,0,2,609.0,12,51.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.92 TIS 0.3 TIB 0.3 ASC 2 DTC
+IMG_00006.tif,0,2,676.5,13,51.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.92 TIS 0.3 TIB 0.3 ASC 2 DTC
+IMG_00007.tif,0,2,609.0,12,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00008.tif,0,2,609.0,12,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00009.tif,1,1,456.5,13,19.5,,,,12L3 = Quadriceps = « Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 j ASC
+IMG_00010.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00011.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00012.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00013.tif,0,2,609.0,12,87.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.70 TIS 0.3 TIB 0.3 ASC 3 DTC
+IMG_00014.tif,0,2,609.0,12,55.8,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00015.tif,0,2,609.0,12,102.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.19 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00016.tif,0,2,622.5,10,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00017.tif,0,2,622.5,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00018.tif,0,2,676.5,9,187.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.92 TIS 0.3 TIB 0.3 ASC 2 DTC
+IMG_00019.tif,0,2,676.5,12,187.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.92 TIS 0.3 TIB 0.3 ASC 2 DTC
+IMG_00020.tif,0,2,676.5,10,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00021.tif,0,2,676.5,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00022.tif,0,2,609.0,12,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00023.tif,0,2,609.0,12,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00024.tif,0,2,609.0,9,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00025.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00026.tif,0,2,609.0,9,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00027.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00028.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00029.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00030.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.54 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00031.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.54 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00032.tif,0,2,676.5,10,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00033.tif,0,2,676.5,10,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00034.tif,0,2,609.0,12,122.2,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.87 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00035.tif,0,2,676.5,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00036.tif,2,2,846.0,11,164.5,,,,——- —S — -— —— —— _ = —= = ~~ = = ——— — —s — = a —_—. —— ee — _ > > — 
+IMG_00037.tif,3,1,849.0,13,25.0,,,,SS — ——= =< ~~ = — ———s - — — —- —= <= _ —?. —— ——e = -_— _ SS —- —_ —
+IMG_00038.tif,4,0,-1.0,0,-1.0,,,,— ae ——_ — = = a =_; —— | a dl = _ a = — - —_— 7 = = - — — —~ >= _ | —
+IMG_00039.tif,5,2,845.5,15,30.8,,,,"2, + _— _—_—— - — ~~ 2. — —_— = = —- -_ a —— a —— . — ™ —__— <5 == ———"
+IMG_00040.tif,6,1,506.0,3,248.5,,,,"— =< = ——S = | So ' ge —- = —— i Se i a me ——-"" mel = me i i 4 eee | p"
+IMG_00041.tif,7,1,488.0,3,69.5,,,,"a = = he =. — | — _—— SS == —_ ae | - ori ~~ Res, ie ' — a = a ae a “1"
+IMG_00042.tif,8,2,507.5,17,34.5,,,,"i a —___ = —— —_ a 5 — ——S SS ———— =a, ee ——— = a a a ) - ~ _—— ul = |"
+IMG_00043.tif,9,2,508.0,18,21.0,,,,= ———————— a ——— = te ——_ = ee — = ——> SS - — i —— a ag er = A ae ee S
+IMG_00044.tif,10,2,510.0,16,13.0,,,,——————e a —— ——— = = ee a : —— =~ ——— =~ : _— Ee ee | —S———_ ————— == 
+IMG_00045.tif,11,2,505.5,16,20.0,,,,Se ae — — SSS Se en es ————— = — —— a = ig — — ee ——SS—— ee | ie ——— —
+IMG_00046.tif,12,2,505.0,23,19.2,,,,— ——— SS —S i ee a — ——— ee Se ee Se ee | _——a ———— ee —— Ss ——— = —— 
+IMG_00047.tif,13,1,828.0,16,49.5,,,,a —— ——] = —— —=— -——= —= ae St ——* ———— es a | —————————— i —=s3 — — 
+IMG_00048.tif,14,2,508.0,23,24.5,,,,ee —— —-—_—_ = = == = —— —— — | a SS — —<—_— + —e = = —— a ~~ = — | oa
+IMG_00049.tif,15,1,801.5,9,22.0,,,,a SS SS — _ a ——— —_ > __ a _ = ————— — = : = a ——_— ; — a SE | ——————
+IMG_00050.tif,4,0,-1.0,0,-1.0,,,,————= a —_ —— —— . _—_ : = | ———_— __— > = - — _ = - — —_ . = a << | —
+IMG_00051.tif,16,2,843.0,18,32.5,,,,"A —— - ee - = ~ ——<—<—————=— SS = == a —_—- Ses, — SS — Se — = el = - "
+IMG_00052.tif,4,0,-1.0,0,-1.0,,,,LE es = = - = —_ ——— — — — ~ _ . = —_— : =—4 —— == ———-_ = oe —— =; —_
+IMG_00053.tif,17,2,849.0,13,65.8,,,,SS —$— —— - — — wd — = — —_- | —— - ———- a - = — —— — — aS — a = — “ —
+IMG_00054.tif,18,1,805.0,10,43.0,,,,—_— —— = = : —.. * -~< — = — me —_ ———_————— a | = _— —<a ——— Se «= =—
+IMG_00055.tif,19,2,846.5,19,30.5,,,,"itl = — —_ — —_ — = —=—= — —= : , —— ——— — ——— . = = = = —_— == 7 —— —"
+IMG_00056.tif,20,2,622.5,1,-1.0,,,,> 50 | = = = 7 = = = _ aa a ; | SO ———<—— — o 2 . —— —— >= ~- — = ~ oe
+IMG_00057.tif,20,2,622.5,1,-1.0,,,,"> 50 | = = = 7 = = - _ aa a ; | “ —— . _— = —— = oo a eT a "" 1 I SS ee"
+IMG_00058.tif,20,2,622.5,1,-1.0,,,,> 50 | = = = 7 4 = = _ a | —.— a ee Ss ee ee =_— = Fs — a ee r — -—_— 
+IMG_00059.tif,20,2,622.5,1,-1.0,,,,> 50 | = = = 7 . - = ; _ = = Rr | a. ee — = —=—_ = . Se ——— . Se = ; |
+IMG_00060.tif,20,2,622.5,1,-1.0,,,,> 50 | = = = 7 . = = ; - = =| Rr | a 2 —_— ee _ —_ ————— aa - _——— — -
+IMG_00061.tif,21,1,617.0,1,-1.0,,,,0 rs = hb 50 | aol = — - - . = J = _ | — ee - —— = i -~ : —_* pa Se ae
+IMG_00062.tif,21,1,617.0,1,-1.0,,,,"0 rs = hb 50 | ee - = eae mt , _ a, - -— — ee ~— — _— ~ et i _ eg —— 5"
+IMG_00063.tif,21,1,617.0,1,-1.0,,,,0 rs = hb 50 | aol = — - - . - 19 ; —_ | dn SS = = | ee = a ep ee a — 
+IMG_00064.tif,21,1,617.0,1,-1.0,,,,"0 rs = hb 50 | aol = — - “. . — 7"" ; — | ———— a = - | | 0 e - SS — —— "
+IMG_00065.tif,21,1,617.0,1,-1.0,,,,0 rs = hb 50 | aol = — - “. . ~ — ; _ | 0 ¢ = —— Oo — << = — _ on hw —
+IMG_00066.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — —— SSE | ——~ a al ~— ' a —_— ——— = = ' : <—_ ———— = = — —— —
+IMG_00067.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — a ' —=— —— SEE = ——— eS . —_ = - — =e H < —— — —_— —— — H 50
+IMG_00068.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ee “ = — z ——— = —————— H ; = = - — —— } Se SS _- ———— - ; - S
+IMG_00069.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | SS eg ' =— —_—— — - = H - a . a a es _ —— ' _ = SSS SSS | ee S
+IMG_00070.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | =... —— Pa a H - = —_——_ _ H oe —— = = —— : 50 os — — = ——_ — 
+IMG_00071.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = ee eet — = = -= ——— ~ a See eee eee = = - = — = — = —— —__™ 
+IMG_00072.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — —————— Se a eed SS eee = — —_= —— = — —_ — — — — SS —————— S
+IMG_00073.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | ——_ SS Oe = —= RR i — —— Se SS ee _—<—, ——- ——— SS —— = — a i "
+IMG_00074.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | el ee — —— > — a — ___ — ——— SS ee eee ~ ——=_ —== SS > ee a ="""
+IMG_00075.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | SS SSS OD OE= eee a —= i — = = — ——___ 4 — = = ——__ : - — —— =
+IMG_00076.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | = - — — ates = ee a, ~~... : SS = ——__ - ———— =—— —__ — —— =_—"
+IMG_00077.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —=—— ee == H = - = et = en — ~...< H = = = >... ~ : P —_ — — —
+IMG_00078.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | : ~ ee — _ = ———— = : H —— —_——~— —_ — * = H —— —— i = - _ : 1
+IMG_00079.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = eT —— === ————S SC ———— : ee =. =e — = - = = : - - oe = ' 50
+IMG_00080.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —— = —SS—__ SS = we ————— SSE ee — —— ae? ——_=— == —— 3
+IMG_00081.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — —.._ ; — : — — a = — a... = : 50 — —_ = : = = = = -
+IMG_00082.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —— . i ee H —— - < . ne = — t — . —_ —— : 50 x — = > a H = Ss 
+IMG_00083.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —=— y - —.. - H = ~ SS te 50 — nal : | rrr
+IMG_00084.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | =< “ . = — ——E SS — 50 — = | ———— —
+IMG_00085.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —_ = - = — - = — ee ' e._ { 50 = —_ —_ |
+IMG_00086.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | oi = = ——— ——— — - | — — = — —— = - a i — — —- - — ea — ae
+IMG_00087.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | — ~~..."" — —_ . : . ee — = ee =~"
+IMG_00088.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | - - ~ _— = ~ ~ —= em ——— - Sie ee
+IMG_00089.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ws = — i = == : ; —— SS ———— = — — a —_ —_ — — ee 7 -_ i
+IMG_00090.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = — ——— SS | — = _ - ~—— ——— —— — ee — — —= = — eee —— ~ Tie
+IMG_00091.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | "" _ - ee tt — a ~~ ee - —_— a —- el - _.... | __ — == ———— - ;"
+IMG_00092.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | . — ~ - = - ~ a . = - el 7 eI — —— — a —_— —= | = — is __—— _ 
+IMG_00093.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | > a ll = — a. . — = — a - — — ~ — —_ —_ = ——_———, | a"
+IMG_00094.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ~~ a =— — ae = =< — a ~_ = =... —— = ~ | —e == a - = — —~. =
+IMG_00095.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — —=— - —_—— =... = = — — a _ = ll —__-- — | ee A —— _- — - — 
+IMG_00096.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | > — > =] = : —o = —— — —_ . — ——| 4 50 —s+ —— = a : > — | A — 
+IMG_00097.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —. — a a —— ~ =— — H — — ~ = = = = = — —— a 50 — 2 — [T= — = —
+IMG_00098.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | Se a SS —————_ 7 = - = —_— ———— So 50 = =——;_ _ = ——— = ; —— —
+IMG_00099.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — ——]_ — — = ~ — = _ = on ——— =a : ~ - —— — —= —_— ——— 50 = = 
+IMG_00100.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | a — ay — = H ~ — a —S— : 60 ——<—— = —— : ———= ——$ SS =— - =>- 
+IMG_00101.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | es . —_—— == = —= = —<——— _ = = = 50 —— = — — —— —~/ — == - ——
+IMG_00102.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | Se = a = Sie. > i H = — — ——— _—— ~ — | — = —____- — — ——— ———
+IMG_00103.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | te —— —~ a -_ H = — — = — = =. a - _ —_ —_— | c a ——— — = - = 
+IMG_00104.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | i = : —— - ——— ——.. H all - — —— = — - ~ ae | — t — — a a —— —
+IMG_00105.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | Si oS > = — . — —_—___-” H = aa = ——, 50 — 2... > — — te 5 il "
+IMG_00106.tif,20,2,622.5,1,-1.0,,,,0) - b 50 | =“ ' H H ~] ‘ H H H — 1 H < i ~ | i { i H H H i H H ‘ i ' 
+IMG_00107.tif,20,2,622.5,1,-1.0,,,,0) - b 50 | =“ ' H H ~] ‘ H H H — 1 H < i ~ | i { i H H H i H H ‘ i ' 
+IMG_00108.tif,20,2,622.5,1,-1.0,,,,0) - b 50 | =“ ' H H ~] ‘ H H H — 1 H < i ~ | i { i H H H i H H ‘ i ' 
+IMG_00109.tif,20,2,622.5,1,-1.0,,,,0) - b 50 | =“ ' H H ~] ‘ H H H —_ 1 H < i ~ | i { i H H H i H H ‘ i '
+IMG_00110.tif,20,2,622.5,1,-1.0,,,,0) - b 50 | =“ ' H H ~] ‘ H H H —_ 1 H < i ~ | i { i H H H i H H ‘ i '
+IMG_00111.tif,23,2,641.0,1,-1.0,,,,0 ra) 2 p> to. 50 | 5 | — ~ = ’ = j = “a ~ | —_—— a _— —— a ee — me = 
+IMG_00112.tif,23,2,641.0,1,-1.0,,,,0 ra) 2 p> cl. 50 | _ -— i —. i. = en ; a — ~ TT - a a H ~ —_= ies -_ 
+IMG_00113.tif,23,2,641.0,1,-1.0,,,,0 ra) 2 a p> - 50 | = Ss 1 = = : > } * : - = = . ] | —_ - _ — i — i ea
+IMG_00114.tif,23,2,641.0,1,-1.0,,,,0 ra) 2 be p> - ~ 50 | . - { ~ « : = | ? i _ od | = | i oa Se _ —_ hn 
+IMG_00115.tif,23,2,641.0,1,-1.0,,,,0 ra) 2 be p> = ~ 50 | = _ } a } al | ~ } id i al al = : | - —_ = -_ —
+IMG_00116.tif,20,2,629.0,1,-1.0,,,,0 wy 2 - b oo 50 F e | a ' ' ‘ — ‘ 1 ' — H ' ' ‘ ‘ i t ' ' = ‘ — ‘ 1 t
+IMG_00117.tif,20,2,629.0,1,-1.0,,,,0 ©. b 50 ' | a ' ' ‘ — ‘ 1 —) ' ' ' ' ‘ ‘ i t ' ' ‘ = ‘ 1 t ' ' +| i 
+IMG_00118.tif,20,2,629.0,1,-1.0,,,,0 ©. b 50 = e | a ' ' ‘ — ‘ 1 —} ' ' ' ' ‘ ‘ i t ' ' ‘ ‘ 1 t ' ' +| i 
+IMG_00119.tif,20,2,629.0,1,-1.0,,,,0 © b 50 F I | a ' t — ' + ' ' — ' ' t t ' H ' ' t t ' H ' ' t t ' a H
+IMG_00120.tif,20,2,629.0,1,-1.0,,,,0 © b> 50 F | a ' ' = H + ‘ 1 = ' ' ' ' ‘ ‘ i t ' ' ‘ ‘ 1 t ' ' +| i 1
+IMG_00121.tif,20,2,629.0,1,-1.0,,,,"0) @, - > : 50 P | al = = ; | 50 — —= —— = — i | | 0 ra -- = —— ——— — "
+IMG_00122.tif,20,2,629.0,1,-1.0,,,,"0) @, - > : 50 2 | = = al = = ~ | | 50 —_—=—= — - = i — i | | 0 a - = "
+IMG_00123.tif,20,2,629.0,1,-1.0,,,,"0) @, - > 5 50 @ | = ~ 4 aa = = | | ——————— 50 a — — = — i | iu yy —_ "
+IMG_00124.tif,20,2,629.0,1,-1.0,,,,"0) @, - > 5 50 5 | = = ~ . = = _ Z = | 50 — - = ; | Se —— 7 , ——— eee "
+IMG_00125.tif,20,2,629.0,1,-1.0,,,,0) ¢ 2 > : 50 e | = | : : : = 5 : = : = | SS SS —— ]—_ — = —— ~ _—_ - 
+IMG_00126.tif,20,2,629.0,1,-1.0,,,,0 - b 50 | a ' ' ‘ - H 1 = ' 1 ' ' ‘ 1 1 1 ' ' ‘ ‘ 1 1 ' ' a] ' 1 ' ' 
+IMG_00127.tif,20,2,629.0,1,-1.0,,,,0 - b 50 | a ' ' ‘ + H 1 = ' . 1 ' ' ‘ 1 1 1 ' ' ‘ ‘ 1 1 ' ' a] ' 1 ' 
+IMG_00128.tif,20,2,629.0,1,-1.0,,,,0 ¢ - b 50 | a ' ' ‘ + H 1 = H ' ' ‘ 1 1 1 ' ' ‘ ‘ 1 1 ' ' a] ' 1 ' ' 
+IMG_00129.tif,20,2,629.0,1,-1.0,,,,0 - b 50 | a ' i 1 — 1 = \ | ! H 1 | 1 | ! H i i | | ! H ! | { | ! H :
+IMG_00130.tif,20,2,629.0,1,-1.0,,,,0 - b 50 | a ' H H = 1 ' = \ | H H H ' | | H H H H \ | H H 4 ' | | H '
+IMG_00131.tif,20,2,629.0,1,-1.0,,,,0 e b> 50 : | eS ___ = ———— ———— ee ——— = ——— al : —— SS : ——_ = = ——_
+IMG_00132.tif,20,2,629.0,1,-1.0,,,,0 e. b> 50 . | ee OS. ____ = SS ——4 . = —— - oe > t 50 ——_ ee ——— —_— 
+IMG_00133.tif,20,2,629.0,1,-1.0,,,,0 e. b> 50 : | ee ee | : = _ == << * 2 ; ——_ oe == SS 50 —_—_ - = — ——
+IMG_00134.tif,20,2,629.0,1,-1.0,,,,0 e. b> 50 : | NE SS — SS ESS eee H - = — _———S x SS = ——_— = 50 — ———
+IMG_00135.tif,20,2,629.0,1,-1.0,,,,0 e b> 50 : | SS SS —= | SS SE ———| H eee ——__— = - 50 ———— EE ———_; —
+IMG_00136.tif,20,2,629.0,1,-1.0,,,,> 50 | a ' — ' H H = ' ' ' al ' = t ' H ' { t t i ‘ ' { t t 4 H ' ' t 
+IMG_00137.tif,20,2,629.0,1,-1.0,,,,> 50 | a ' — ' H — H H H H al t = H H H H H t t H H H H t 4 H H H t ' 
+IMG_00138.tif,20,2,629.0,1,-1.0,,,,0 on ¢ > - 50 | a ' _ ‘ H — H H H H = t = H H H H H t t H H H H t 4 H 
+IMG_00139.tif,20,2,629.0,1,-1.0,,,,> 50 | u ' —) ' - | | | = 1 _ ' | | | | | : | | | : : | : | : a ' | = 
+IMG_00140.tif,20,2,629.0,1,-1.0,,,,> 50 | a ' — ' H H = ' H H = t = H H H H H t t H H H H t t 4 H H H t '
+IMG_00141.tif,20,2,629.0,1,-1.0,,,,> 50 | = a al a = = z : a ~ . - a “| = _ =) -} : _ = = | > ——<<d ~ _ —
+IMG_00142.tif,20,2,629.0,1,-1.0,,,,> 50 | an) =] = = aa | = — > ™ = f - _ 3 = =| - | a ——— ee >= ' = —s o
+IMG_00143.tif,20,2,629.0,1,-1.0,,,,> 50 | ~ 4 | a = = = - = | _ ] _| | ; = = —| ! i . a = = a= | — ——— > 
+IMG_00144.tif,20,2,629.0,1,-1.0,,,,> 50 | = 1 | =i 5 = “| A =| . = _ | | _] : _ =| —| ! = - =| | SS —<—_—
+IMG_00145.tif,20,2,629.0,1,-1.0,,,,0 on ¢ > . - 50 | —<—_ . a CN Sa — — in = = —— —— -. = - —. —— = H ee 
+IMG_00146.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | SS eS SC— = a —=_ = —— ! 50 — Se —.
+IMG_00147.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | SSO —C — CO - : . ——— ———_ = _- 50 = —— — — - 5 | ae — — ee =—
+IMG_00148.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ee . SS ——— OO Oe a H SSeS —= = E SS SCO = : 50 SS = ~=— a — 4
+IMG_00149.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ~_—— — ———— H ——— =——— ——_ — — : — a — —_ . ———— _ ' 50 ———— i
+IMG_00150.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = I —% - — ' = = —— | & — - Sn —— ——. --—=—2 i
+IMG_00151.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | — — Se —_—— i H ——— —e = —__ ~ —— = —— 50 —— . —_ eee = } = = 
+IMG_00152.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | s 3 a | Vl —_—_—_ = — —— ———eeeeE——OEy - —_
+IMG_00153.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | a... a —— —— ' —— - - - ' — ——_ —_ = a H a OO 50 . = — - - ——=
+IMG_00154.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ee. i = es a ' = Se = = _— H . | — ——— | ——<— —— Eee —— - - =
+IMG_00155.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ees ae — —== —— = — == —— Pe | SS — i —e EE — - —
+IMG_00156.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | s SS eS | —<— = — - a
+IMG_00157.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | : gS ee — eee ——= : SE 50 a Oe —= —
+IMG_00158.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | —»«, = EE — = — — eS : = = —— i = = 50 Soa — | = = = ; a }"
+IMG_00159.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = eee ———— mn — — = ' ———S — — — m —_ H 50 —— - ———=——- — _ —_
+IMG_00160.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | SS |, - = i | $< —— = ——"
+IMG_00161.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | - —~ = - — — - = - H 50 SS — j _— _ = — | a ows - — — — - — EE
+IMG_00162.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | Ee ee = = — 50 ———— — ; = — = = | —— 4 - —— — = —_— ne ee — —_
+IMG_00163.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ———— —————<«— — = = _ —— — | H 50 .— —a H — = = - = = —— | = —
+IMG_00164.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | —————— — _— aed = ' -=-——_ —— —__ = —— = = ; _~_— , ~~ _- - _ "
+IMG_00165.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ——__——————_—— —_— — = =—— —— H 50 —— ——— —— — 5 — x ~e = —— — 
+IMG_00166.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | rat - —— EES ——— EE —— 7 ws = = — — a ee ee: = : —== — = =
+IMG_00167.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | = ie ~ - | OT — — OO |, _ eee ee = —_— = & = = —— —_——— ———, —"
+IMG_00168.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = = Pas - —_— = = ys = =~ = — —_— = | 2 —_ — —— Se Rt > —= = —
+IMG_00169.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | —— = —— = = = — — —=— —_ | = —— — ————_—_—_—__=_———— > ——— — v
+IMG_00170.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | = _ —_ a on = = ~ > — ———— — ce —— — — . - | sO ow - —— — - = 
+IMG_00171.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ae : ) —— ———— — —_— = = - = a —- a — = eE————ee
+IMG_00172.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ; = — ——_—=_===_ > . — — SS — ——_— - = ———= —— ee eee ———
+IMG_00173.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | ; = — SSS a ——— — SS —_ ——_ + ———— en ——
+IMG_00174.tif,22,1,754.0,1,-1.0,,,,¢ 0 . | - —— — SS — = _——— - - ———— a i ee ———
+IMG_00175.tif,22,1,754.0,1,-1.0,,,,"¢ 0 . | ~ = — _ ——_——=—_— : —es ee eee "" —_ - = ——_ —_——— EE ee —"
+IMG_00176.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | _ — = ——— — as <= —_— = — : —_—— ~ a —— — ~ ~ —— | = — = = : —
+IMG_00177.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | a - — —_ — — = = . — — A —— 2 —_— . _—— —_ — —— =~ = | — — —_—
+IMG_00178.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | < - a SS — a _— 7 —— — — = - = _ —=—- > OU Se Se =~ | - —— —— 
+IMG_00179.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | -_ — = — 2 a ~— ————S —— ———— ee — Pe elles = 2a ee | - —Ee = 
+IMG_00180.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | - me = = OS —eE = —-= a — . : SSS > SES SS = Ss | — a So = —— 
+IMG_00181.tif,22,1,754.0,1,-1.0,,,,¢ 0 ; | — — —<_— Se ee Ee =. _ — —_ a — _— - ee ——= = ——_— —— — ———_* 
+IMG_00182.tif,22,1,754.0,1,-1.0,,,,"¢ 0 ; | ee — =, Cee = ie — —— — 5 ——_—_= —— == — = — =< > ——_ = | — a "
+IMG_00183.tif,22,1,754.0,1,-1.0,,,,"¢ 0 ; | ——— a SS =— "" — —— —— — — —— ——— ae = : —— | ESE"
+IMG_00184.tif,22,1,754.0,1,-1.0,,,,"¢ 0 ; | —_ >. — . : “ — — —— - _ : —_ —=_- — =. — — ——_—_, —<—<— i | :"
+IMG_00185.tif,22,1,754.0,1,-1.0,,,,"¢ 0 ; | —— ——s —— ee ee a — a, —_—_ —— - ———.. a <r — ; —— —— == — om "
+IMG_00186.tif,24,1,731.0,1,-1.0,,,,"© 0 . iL | ‘if | a — = _ Hi SS ae SS | ~ —— - oe <>... _ "" —_ —_ — _— "
+IMG_00187.tif,24,1,731.0,1,-1.0,,,,© 0 . iL | ‘if | a ee i Hi = —_ — _— — - ee H 50 a —a - = _ | | a
+IMG_00188.tif,24,1,731.0,1,-1.0,,,,"© 0 . iL | ‘if | a — i -_ Hi ~— ——— - = H ~~ _— oe — —- = 50 ~~, — — ="
+IMG_00189.tif,24,1,731.0,1,-1.0,,,,"© 0 . iL | ‘if | = -—~- = . a , — i _— ~ — H » — — — z —— ~ = 4 — 7 3 "
+IMG_00190.tif,24,1,731.0,1,-1.0,,,,© 0 . iL | ‘if | = ——S = — >_> ' — - — == : . ——— 60 ——— = - —— — —— a
+IMG_00191.tif,24,1,731.0,1,-1.0,,,,¢ 0 . | 8 | -_ —_— - —— ——— ~—* —- & “= — a ' — — — . io => —_ } z > =
+IMG_00192.tif,24,1,731.0,1,-1.0,,,,¢ 0 . | 8 | e = a ——* “ os é = - = “ .o — ;
+IMG_00193.tif,24,1,731.0,1,-1.0,,,,"¢ 0 . | 8 | 60 ———— —a Sa . — | > — >, ; . =z = ee"
+IMG_00194.tif,24,1,731.0,1,-1.0,,,,¢ 0 . | 8 | —# — “= — -~ —— ‘ 50 — = = 4 ; | = = — - i
+IMG_00195.tif,24,1,731.0,1,-1.0,,,,"¢ 0 . | 8 | —— —————— = —— ae a — <— a = “= — - ==— => — a = SS, = 50 "
+IMG_00196.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00197.tif,0,2,609.0,13,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00198.tif,25,2,479.0,14,32.0,,,,12L3 3 Quadriceps = i Sendeleistung 100% MI 1.06 TIS 0.1 « TIB 0.1 ASC
+IMG_00199.tif,25,2,479.0,14,32.0,,,,12L3 Quadriceps = . Sendeleistung 100% MI 1.06 E TIS 0.1 a TIB 0.1 = A
+IMG_00200.tif,25,2,510.0,14,32.0,,,,12L3 ‘ Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 D
+IMG_00201.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00202.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00203.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.87 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00204.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.87 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00205.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00206.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00207.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.87 TIS <0.1 TIB <0.1 ASC 2 D
+IMG_00208.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 3 DTC
+IMG_00209.tif,0,2,609.5,13,153.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 0.92 TIS 0.3 TIB 0.3 ASC 3 DTC
+IMG_00210.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 3 DTC
+IMG_00211.tif,0,2,609.0,12,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00212.tif,0,2,609.0,13,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00213.tif,0,2,609.0,12,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00214.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00215.tif,0,2,609.0,12,68.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.19 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00216.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00217.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00218.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00219.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00220.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00221.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00222.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00223.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00224.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00225.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00226.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00227.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00228.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00229.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00230.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00231.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00232.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00233.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00234.tif,1,1,293.5,12,19.5,,,,12L3 = Quadriceps = } Sendeleistung 100% MI 0.87 . TIS <0.1 5 TIB <0.1
+IMG_00235.tif,1,1,302.0,12,19.5,,,,12L3 . Tri Surae = . Sendeleistung 100% MI 0.87 i TIS <0.1 TIB <0.1 q 
+IMG_00236.tif,0,2,609.0,13,135.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00237.tif,0,2,609.0,13,61.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00238.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00239.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00240.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00241.tif,0,2,609.0,12,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00242.tif,0,2,609.0,13,122.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.19 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00243.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00244.tif,0,2,609.0,12,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00245.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00246.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00247.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00248.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00249.tif,0,2,609.0,13,76.0,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.06 TIS 0.1 TIB 0.1 ASC 2 DTC
+IMG_00250.tif,0,2,609.0,13,152.5,,,,12L3 Quadriceps = Sendeleistung 100% MI 1.17 TIS 0.2 TIB 0.2 ASC 2 DTC
+IMG_00251.tif,25,2,479.0,12,239.5,,,,12L3 Quadriceps = s Sendeleistung 100% MI 0.87 - TIS <0.1 TIB <0.1 5 A
+IMG_00252.png,26,2,503.0,4,303.0,"Tiefe
+4.0cm",0.07952,ocr_depth/span,.0 > > 2 -4cm | Ml 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tiefe 4
+IMG_00253.png,26,2,505.0,4,268.0,"Tiefe
+4.5cm",0.08911,ocr_depth/span,.0 - . 2 4 . 4.5cem | Ml 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00254.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00255.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00256.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.8 TIB 0.0 Bildfrequenz 26 Hz Verstark. 50 Tief
+IMG_00257.png,26,2,495.0,4,102.5,"Tiefe
+3.5cm",0.07071,ocr_depth/span,.0 > J 2 . 3.5em | ) MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Ti
+IMG_00258.png,26,2,495.0,4,240.5,"Tiefe
+
+5.0 cm",0.10101,ocr_depth/span,.0 . 2 > 4 59cm | ) MI 0.7 TIB 0.0 Bildfrequenz 26 Hz Verstark. 55 Tie
+IMG_00259.png,26,2,453.0,4,303.0,"Tiefe
+4.0cm",0.0883,ocr_depth/span,.0 > > 2 -4cm | MI 0.7 TIB 0.0 Bildfrequenz 28 Hz Verstark. 61 Tiefe 4
+IMG_00260.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00261.png,26,2,505.0,4,303.0,"Tiefe
+4.0cm",0.07921,ocr_depth/span,.0 > > 2 -4cm | Ml 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00262.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00263.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 1.0 TIB 0.1 Bildfrequenz 23 Hz Verstark. 51 Tief
+IMG_00264.png,26,2,495.0,4,303.0,"Tiefe
+4.0cm",0.08081,ocr_depth/span,.0 > > 2 -4cm | ) MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00265.png,26,2,495.0,4,102.5,"Tiefe
+3.5cm",0.07071,ocr_depth/span,.0 > J 2 . 3.5em | ) MI 0.5 TIB 0.0 Bildfrequenz 30 Hz Verstark. 59 Ti
+IMG_00266.png,26,2,507.0,4,303.0,"Tiefe
+4.0cm",0.0789,ocr_depth/span,.0 > > 2 -4cm | MI 1.0 TIB 0.0 Bildfrequenz 23 Hz Verstark. 51 Tiefe 4
+IMG_00267.png,26,2,444.0,4,268.0,"Tiefe
+4.5cm",0.10135,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00268.png,26,2,444.0,4,268.0,"Tiefe
+4.5cm",0.10135,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00269.png,26,2,502.5,4,303.0,"Tiefe
+4.0cm",0.0796,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 56 Tiefe 4
+IMG_00270.png,26,2,495.0,4,102.5,"Tiefe
+3.5cm",0.07071,ocr_depth/span,.0 > J 2 . 3.5em | ) MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Ti
+IMG_00271.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00272.png,26,2,503.0,4,102.5,"Tiefe
+3.5cm",0.06958,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00273.png,26,2,503.0,4,102.5,"Tiefe
+3.5cm",0.06958,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00274.png,26,2,505.0,4,268.0,"Tiefe
+4.5cm",0.08911,ocr_depth/span,.0 - . 2 4 . 4.5cem | Ml 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00275.png,27,1,503.0,4,102.5,"Tiefe
+
+6.0 cm",0.11928,ocr_depth/span,0 > > 5 . 6cm | Ml 0.9 TIB 0.1 Bildfrequenz 21 Hz Verstark. 45 Tiefe 6
+IMG_00276.png,26,2,502.5,4,102.5,"Tiefe
+3.5cm",0.06965,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00277.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00278.png,26,2,495.0,4,303.0,"Tiefe
+4.0cm",0.08081,ocr_depth/span,.0 > > 2 -4cm | ) MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00279.png,27,1,499.0,4,102.5,"Tiefe
+
+3.0 cm",0.06012,ocr_depth/span,0 > > 2 -3cm | MI 0.9 TIB 0.0 Bildfrequenz 25 Hz Verstark. 50 Tiefe 3.
+IMG_00280.png,27,1,502.5,4,102.5,"Tiefe
+
+3.0 cm",0.0597,ocr_depth/span,0 > > 2 -3cm | MI 0.9 TIB 0.0 Bildfrequenz 25 Hz Verstark. 50 Tiefe 3.
+IMG_00281.png,26,2,503.0,4,268.0,"Tiefe
+4.5cm",0.08946,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00282.png,26,2,502.5,4,102.5,"Tiefe
+3.5cm",0.06965,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00283.png,26,2,499.0,4,268.0,"Tiefe
+4.5cm",0.09018,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00284.png,26,2,507.0,4,268.0,"Tiefe
+4.5cm",0.08876,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00285.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00286.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00287.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00288.png,26,2,505.0,4,240.5,"Tiefe
+
+5.0 cm",0.09901,ocr_depth/span,.0 . 2 > 4 59cm | Ml 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00289.png,26,2,503.0,4,303.0,"Tiefe
+4.0cm",0.07952,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00290.png,26,2,453.0,4,303.0,"Tiefe
+4.0cm",0.0883,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00291.png,26,2,453.0,4,303.0,"Tiefe
+4.0cm",0.0883,ocr_depth/span,.0 > > 2 -4cm | MI 0.5 TIB 0.0 Bildfrequenz 30 Hz Verstark. 59 Tiefe 4
+IMG_00292.png,26,2,507.0,4,268.0,"Tiefe
+4.5cm",0.08876,ocr_depth/span,.0 - . 2 4 . 4.5cem | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 T
+IMG_00293.png,26,2,495.0,4,240.5,"Tiefe
+
+5.0 cm",0.10101,ocr_depth/span,.0 . 2 > 4 59cm | ) MI 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tie
+IMG_00294.png,26,2,483.0,4,240.5,"Tiefe
+
+5.0 cm",0.10352,ocr_depth/span,.0 . 2 > 4 59cm | MI 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00295.png,26,2,444.0,4,102.5,"Tiefe
+3.5cm",0.07883,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00296.png,26,2,495.0,4,240.5,"Tiefe
+
+5.0 cm",0.10101,ocr_depth/span,.0 . 2 > 4 59cm | ) MI 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tie
+IMG_00297.png,26,2,503.0,4,240.5,"Tiefe
+
+5.0 cm",0.0994,ocr_depth/span,.0 . 2 > 4 59cm | MI 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00298.png,26,2,503.0,4,240.5,"Tiefe
+
+5.0 cm",0.0994,ocr_depth/span,.0 . 2 > 4 59cm | MI 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00299.png,26,2,453.0,4,303.0,"Tiefe
+4.0cm",0.0883,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00300.png,27,1,495.0,4,102.5,"Tiefe
+4.0cm",0.08081,ocr_depth/span,.0 > > 2 -4cm | ) MI 0.7 TIB 0.0 Bildfrequenz 28 Hz Verstark. 61 Tiefe
+IMG_00301.png,26,2,505.0,4,240.5,"Tiefe
+
+5.0 cm",0.09901,ocr_depth/span,.0 . 2 > 4 59cm | Ml 0.9 TIB 0.1 Bildfrequenz 23 Hz Verstark. 50 Tiefe
+IMG_00302.png,26,2,503.0,4,303.0,"Tiefe
+4.0cm",0.07952,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00303.png,26,2,453.0,4,303.0,"Tiefe
+4.0cm",0.0883,ocr_depth/span,.0 > > 2 -4cm | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tiefe 4
+IMG_00304.png,26,2,483.0,4,240.5,"Tiefe
+
+5.0 cm",0.10352,ocr_depth/span,.0 . 2 > 4 59cm | MI 0.7 TIB 0.0 Bildfrequenz 28 Hz Verstark. 50 Tiefe
+IMG_00305.png,26,2,503.0,4,102.5,"Tiefe
+3.5cm",0.06958,ocr_depth/span,.0 > J 2 . 3.5em | MI 0.9 TIB 0.0 Bildfrequenz 24 Hz Verstark. 50 Tief
+IMG_00306.png,26,2,505.0,4,102.5,"Tiefe
+3.5cm",0.06931,ocr_depth/span,.0 > J 2 . 3.5em | Ml 0.5 TIB 0.0 Bildfrequenz 30 Hz Verstark. 55 Tief
+IMG_00307.png,28,2,499.0,4,308.0,"Tiefe
+
+5.0 cm",0.1002,ocr_depth/span,.0 > -2 > 4 | MI 0.8 TIB 0.1 Bildfrequenz 24 Hz Verstark. 57 Tiefe 5.0
+IMG_00308.png,26,2,505.0,4,303.0,"Tiefe
+4.0cm",0.07921,ocr_depth/span,.0 > > 2 -4cm | Ml 0.9 TIB 0.0 Bildfrequenz 23 Hz Verstark. 50 Tiefe 4
+IMG_00309.png,27,1,444.0,4,102.5,"Tiefe
+
+3.0 cm",0.06757,ocr_depth/span,0 > > 2 -3cm | MI 0.9 TIB 0.0 Bildfrequenz 25 Hz Verstark. 50 Tiefe 3.
